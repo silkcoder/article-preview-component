@@ -20,5 +20,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/silkcoder/Social-proof-section-challenge-on-Frontend-Mentor](https://github.com/silkcoder/Social-proof-section-challenge-on-Frontend-Mentor)
-- Live Site URL: [https://silkcoder.github.io/Social-proof-section-challenge-on-Frontend-Mentor/](https://silkcoder.github.io/Social-proof-section-challenge-on-Frontend-Mentor/)
+- Solution URL: [https://github.com/silkcoder/article-preview-component](https://github.com/silkcoder/article-preview-component)
+- Live Site URL: [https://silkcoder.github.io/article-preview-component/](https://silkcoder.github.io/article-preview-component/)
